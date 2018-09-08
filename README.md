@@ -8,21 +8,21 @@
  
 O **Finanças** é um projeto simples que utilizei para testar a ferramenta Thunkable. O mesmo segue um projeto prático disponível no site https://appinventorbrasil.com.br.
 
-![Imagem](https://github.com/DouglasAugustoJunior/ThunkableFinancas/blob/master/_images/inicial.PNG?raw=true)
+![Imagem](https://github.com/DouglasAugustoJunior/ThunkableFinancas/blob/master/_images/inicial.png?raw=true)
 
 
  
 Desenvolvido com a ferramenta Thunkable, esse aplicativo registra lucros e despesas, trazendo um balanço mensal com base nos dados fornecidos.
 
-![Imagem](https://github.com/DouglasAugustoJunior/ThunkableFinancas/blob/master/_images/cadastro_renda.PNG?raw=true)
+![Imagem](https://github.com/DouglasAugustoJunior/ThunkableFinancas/blob/master/_images/cadastro_renda.jpg?raw=true)
 
 
 
-![Imagem](https://github.com/DouglasAugustoJunior/ThunkableFinancas/blob/master/_images/resumo_renda.PNG?raw=true)
+![Imagem](https://github.com/DouglasAugustoJunior/ThunkableFinancas/blob/master/_images/resumo_renda.jpg?raw=true)
 
 
 
-![Imagem](https://github.com/DouglasAugustoJunior/ThunkableFinancas/blob/master/_images/resumo_gasto.PNG?raw=true)
+![Imagem](https://github.com/DouglasAugustoJunior/ThunkableFinancas/blob/master/_images/resumo_gasto.jpg?raw=true)
  
  
 Para mais informações acesse [meus repositórios](http://github.com/DouglasAugustoJunior).
